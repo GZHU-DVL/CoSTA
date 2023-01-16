@@ -5,8 +5,8 @@ StarVQA+: Co-training Space-Time Attention for Video Quality Assessment
 First, create a conda virtual environment and activate it:
 
 ```
-conda create -n StarVQA python=3.7 -y
-source activate StarVQA
+conda create -n StarVQAplus python=3.7 -y
+source activate StarVQAplus
 ```
 Then, install the following packages:
 
@@ -29,3 +29,5 @@ python setup.py build develop
 ```
 
 Please replace the data path with your local path 
+# Pretrain model
+[**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
