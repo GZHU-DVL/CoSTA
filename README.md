@@ -1,5 +1,6 @@
 # StarVQAplus
 StarVQA+: Co-training Space-Time Attention for Video Quality Assessment
+(The code is constantly being updated)
 #  Installation
 
 First, create a conda virtual environment and activate it:
@@ -23,7 +24,7 @@ Then, install the following packages:
 Clone this repo.
 
 ```
-git clone https://github.com/GZHU-DVL/StarVQA.git
+git clone https://github.com/GZHU-DVL/StarVQAplus.git
 cd StarVQA
 python setup.py build develop
 ```
