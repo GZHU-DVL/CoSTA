@@ -31,8 +31,6 @@ python setup.py build develop
 
 Please replace the data path with your local path 
 # Pretrain model
-[**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
-
 Space-attention weights after training on ImageNet-1k.
 
 [**vit_small_patch16_224**](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/vit_small_p16_224-15ec54c9.pth)
@@ -47,6 +45,9 @@ Space-attention weights after training on ImageNet-21k.
 
 [**vit_large_patch16_224_in21k**](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_large_patch16_224_in21k-606da67d.pth)
 
+Space-time-attention weights after training on VQA datasets.
+
+[**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
 # Acknowledgements
 StarVQAplus is built on top of [**TimeSformer**](https://github.com/facebookresearch/TimeSformer) and pytorch-image-models by [**Ross Wightman**](https://github.com/rwightman). We thank the authors for releasing their code. If you use our model, please consider citing these works as well:
 ```
