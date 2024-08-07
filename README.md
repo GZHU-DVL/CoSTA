@@ -47,7 +47,7 @@ Space-attention weights after training on ImageNet-21k.
 
 Space-time-attention weights after training on VQA datasets.
 
-[**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
+[**checkpoint-baidu**](https://pan.baidu.com/s/1ZVQWXOI12sKFjSA1sjdORw?pwd=knmb) 提取码:knmb
 # Acknowledgements
 StarVQAplus is built on top of [**TimeSformer**](https://github.com/facebookresearch/TimeSformer) and pytorch-image-models by [**Ross Wightman**](https://github.com/rwightman). We thank the authors for releasing their code. If you use our model, please consider citing these works as well:
 ```
